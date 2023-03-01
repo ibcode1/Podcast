@@ -6,7 +6,7 @@ apply plugin: 'kotlin-kapt'
 android {
     compileSdkVersion 30
     defaultConfig {
-        applicationId "com.raywenderlich.podplay"
+        applicationId "com.ib.podplay"
         minSdkVersion 23
         targetSdkVersion 30
         versionCode 1
